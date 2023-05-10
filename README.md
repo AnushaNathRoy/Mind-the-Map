@@ -1,8 +1,11 @@
 # Mind the Map: Exploring Task Similarities and Differences in the IBC Dataset
 
 CSAI Project: Team HotCocoa
+<br>
 Anusha Nath Roy 2020101124
+<br>
 Freyam Mehta 2020101114
+<br>
 Srijan Chakraborty 2020115001
 
 ## Abstract
