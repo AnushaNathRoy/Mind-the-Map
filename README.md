@@ -1,0 +1,2 @@
+# Mind-the-Map-Exploring-Task-Similarities-and-Differences-in-the-IBC-Dataset
+The primary objective of this project is to conduct a comprehensive analysis of the IBC dataset, a valuable resource for researchers in the neuroscience domain to exploit. Through the analysis, the aim is to uncover hidden patterns and insights within the data that may contribute to our understanding of the complex workings of the human brain.
