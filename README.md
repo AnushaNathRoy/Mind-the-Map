@@ -21,9 +21,7 @@ Our methodology involves using various data analysis techniques to gain insights
 
 3. Hierarchical Cluster Analysis: We used dendrograms to visualize the clustering results and to identify groups of tasks that show similar neural patterns. We applied hierarchical clustering to both the RSA maps created from the z-map voxel activation data and the model weights used during decoding. This helped us to explore the clustering results using different perspectives.
 
-4. Dimensionality Reduction: We perform dimensionality reduction to 2D and 3D using both Principal Component Analysis (PCA) and Multidimensional Scaling (MDS). This is carried out
-
-2 using the mean z-maps for each label. We then analyze it by running k-means cluster with different k values to check which tasks group together in this reduced dimensional space.
+4. Dimensionality Reduction: We perform dimensionality reduction to 2D and 3D using both Principal Component Analysis (PCA) and Multidimensional Scaling (MDS). This is carried out using the mean z-maps for each label. We then analyze it by running k-means cluster with different k values to check which tasks group together in this reduced dimensional space.
 
 5. Decoding and Prediction: To gain a better understanding of the neural activity patterns associated with each task, decoding models were created using the mean z-maps for each task. These models were trained to predict the task label based on the voxel activation patterns. To obtain more detailed information about the neural representation of each task, separate decoding models were also trained for each individual task. The coefficients of the models were recorded for each label, which provide a measure of the importance of each voxel for predicting the task label.
 
